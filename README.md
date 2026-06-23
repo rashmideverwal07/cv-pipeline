@@ -1,6 +1,6 @@
 # Real-Time Sign Language to Text Pipeline
 
-A real-time computer vision system that translates **ASL sign language into text** live from a webcam — running at 20+ FPS on CPU with no GPU required.
+A real-time computer vision system that translates **ASL sign language into text** live from a webcam running at 20+ FPS on CPU with no GPU required.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green)
