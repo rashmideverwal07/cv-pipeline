@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Large model and data files
+gesture_model.pkl
+gesture_data.csv
+*.task
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
+debug.py
